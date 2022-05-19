@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a fullstack course with zuri
 - 💞️ I’m looking to collaborate on projects with you
 - 📫 How to reach me 
-  - email : dripzythecoder@gmail.com
+  - email : codewithdripzy@gmail.com
   - Phone : +2348080103785
 
 <!---
