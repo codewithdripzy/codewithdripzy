@@ -6,7 +6,7 @@
   - CyberBot Programming
   - Mobile Application Development
   - Ethical Hacking
-  - Dextop Development
+  - Desktop Development
 - 👀 I’m interested in both Private and Open source projects
 - 🌱 I’m currently learning machine learning and IoT
 - 💞️ I’m looking to collaborate on projects with you
