@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithdripzy, and i'm a Software Developer
+- 👋 Hi, I’m @codewithdripzy, i'm God's Chosen✝🙏 and i'm a Software Developer
 - 💪 I do:
   - Game Development
   - Web Application Development,
@@ -18,10 +18,11 @@
    - Vanilla JS, NodeJS, ReactJS and JQuery
    - PHP
    - Go
+   - 
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
-
+❤ Jesus Loves you, If you dont understand contact me below.
 🎉 Wow! you read my Profile to the End, if you don't believe me, Try me
 
 <!---
