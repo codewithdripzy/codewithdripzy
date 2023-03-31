@@ -1,28 +1,24 @@
 - 👋 Hi, I’m @codewithdripzy, i'm God's Chosen✝🙏 and i'm a Software Developer
 - 💪 I do:
+  - Fullstack Engineer,
+  - Mobile Development,
+  - Desktop Development,
   - Game Development
-  - Web Application Development,
-  - IoT and Robotics
-  - CyberBot Programming
-  - Mobile Application Development
-  - Ethical Hacking
-  - Desktop Development
+  - IoT,
 - 👀 I’m interested in both Private and Open source projects
-- 🌱 I’m currently learning machine learning and IoT
-- 💞️ I’m looking to collaborate on projects with you
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on projects with you.
 - 👨‍💻 My major tech stacks are:
-   - C/C++
+   - PHP
    - Python
+   - C/C++
    - C#
    - Dart
-   - Vanilla JS, NodeJS, ReactJS and JQuery
-   - PHP
-   - Go
-   - 
+   - NodeJS, ReactJS and JQuery
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
-❤ Jesus Loves you, If you dont understand contact me below.
+❤ Jesus Loves you.
 🎉 Wow! you read my Profile to the End, if you don't believe me, Try me
 
 <!---
