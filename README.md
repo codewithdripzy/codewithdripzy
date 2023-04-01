@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @codewithdripzy, i'm God's Chosen✝🙏 and i'm a Software Developer
 - 💪 I do:
-  - Fullstack Engineer,
+  - Fullstack Development,
   - Mobile Development,
   - Desktop Development,
-  - Game Development
-  - IoT,
+  - Game Development,
+  - UI/UX,
+  - 3d Modelling,
+  - IoT [Read more...](http://codewithdripzy.github.io/portfolio)
 - 👀 I’m interested in both Private and Open source projects
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects with you.
@@ -14,7 +16,7 @@
    - C/C++
    - C#
    - Dart
-   - NodeJS, ReactJS and JQuery
+   - NodeJS, React, Vue and JQuery [Read more...](http://codewithdripzy.github.io/portfolio)
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
