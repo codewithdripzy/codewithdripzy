@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithdripzy, i'm God's Chosen✝🙏 and i'm a Software Developer
+- 👋 Hi, I’m @codewithdripzy, I'm God's Chosen✝🙏 and I'm a Software Engineer
 - 💪 I do:
   - Fullstack Development,
   - Mobile Development,
