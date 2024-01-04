@@ -16,7 +16,9 @@
    - C/C++
    - C#
    - Dart
-   - NodeJS, React, Vue and JQuery [Read more...](http://codewithdripzy.github.io/portfolio)
+   - GoLang
+   - Java
+   - NodeJS, React, Vue [Read more...](http://codewithdripzy.github.io/portfolio)
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
