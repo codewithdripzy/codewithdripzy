@@ -3,7 +3,7 @@
 
 ## Tech Stack :computer:
 
-<div align="center">
+<div align="center" style='width: 300px'>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/>
