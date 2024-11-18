@@ -3,11 +3,20 @@
 
 ## Tech Stack :computer:
 
-<div align="center" style='display: flex; gap: 10px; flex-wrap: wrap; width: 300px; background-color: red;'>
-  <img width="55" style='margin-right: 10px' src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/>
+<div align="center" style='display: flex; gap: 10px; flex-wrap: wrap;'>
+  <table>
+    <tr>
+      <td><img width="55" style='margin-right: 10px' src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
+    </tr>
+  </table>
+</div>
+
+  
+  
+  
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/>
@@ -23,8 +32,6 @@
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/>
-</div>
-
 
 ## AWS :
 <div align="center">
