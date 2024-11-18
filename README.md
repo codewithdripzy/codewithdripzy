@@ -14,7 +14,7 @@
     <tr>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/></td>
-      <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/></td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
-      <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
     </tr>
   </table>
 </div>
