@@ -3,7 +3,7 @@
 
 ## Tech Stack :computer:
 
-<div align="center" style='display: flex; gap: 10px; flex-wrap: wrap;'>
+<div>
   <table>
     <tr>
       <td><img width="55" style='margin-right: 10px' src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
@@ -30,7 +30,7 @@
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
+      <td><img width="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
     </tr>
   </table>
 </div>
