@@ -8,7 +8,7 @@
     <tr>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
-      <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
+      <td><img width="27" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
-      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
+      <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
     </tr>
   </table>
 </div>
