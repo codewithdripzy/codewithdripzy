@@ -18,7 +18,7 @@
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/></td>
     </tr>
     <tr>
-      <td><img width=30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
       <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg"/></td>
@@ -32,7 +32,7 @@
   </table>
 </div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)
+![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy) ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy&layout=compact)
 <div align="center">
    
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/> 
@@ -85,8 +85,6 @@ Outside of [GitHub](https://github.com/codewithdripzy/), You can **find me**. Cu
    - GoLang
    - Java
    - NodeJS, React, Vue [Read more...](http://codewithdripzy.github.io/portfolio)
-  
-  ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy&layout=compact)
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
