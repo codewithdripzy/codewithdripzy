@@ -30,7 +30,9 @@
       <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
     </tr>
   </table>
-  ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)
+  <div>
+    ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)
+  </div>
 </div>
 
 <div align="center">
