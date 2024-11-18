@@ -10,17 +10,14 @@
       <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
       <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
       <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
-      <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/></td>
     </tr>
     <tr>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/></td>
     </tr>
     <tr>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
