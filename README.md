@@ -6,11 +6,11 @@
 <div>
   <table>
     <tr>
-      <td><img width="55" style='margin-right: 10px' src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
-      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
+      <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/></td>
     </tr>
     <tr>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></td>
