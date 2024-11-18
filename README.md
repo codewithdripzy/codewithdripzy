@@ -10,30 +10,31 @@
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
       <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/></td>
+    </tr>
+    <tr>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/></td>
+    </tr>
+    <tr>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg"/></td>
+    </tr>
+    <tr>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
+      <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
     </tr>
   </table>
 </div>
 
-  
-  
-  
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/>
-
-## AWS :
 <div align="center">
    
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/> 
