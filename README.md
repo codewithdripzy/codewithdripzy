@@ -79,7 +79,7 @@ Outside of [GitHub](https://github.com/codewithdripzy/), You can **find me**. Cu
    - GoLang
    - Java
    - NodeJS, React, Vue [Read more...](http://codewithdripzy.github.io/portfolio)
-   - ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)     ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy-C&layout=compact)
+   - ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)     ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy&layout=compact)
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
