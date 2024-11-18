@@ -4,7 +4,7 @@
 ## Tech Stack :computer:
 
 <div align="center" style='display: flex; gap: 10px; flex-wrap: wrap; width: 300px; background-color: red;'>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/>
+  <img width="55" style='margin-right: 10px' src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/>
@@ -79,6 +79,7 @@ Outside of [GitHub](https://github.com/codewithdripzy/), You can **find me**. Cu
    - GoLang
    - Java
    - NodeJS, React, Vue [Read more...](http://codewithdripzy.github.io/portfolio)
+   - ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)     ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy-C&layout=compact)
 - 📫 How to reach me 
   - email : codewithdripzy@gmail.com
   - Phone : +2348132961144
