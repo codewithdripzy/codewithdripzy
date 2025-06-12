@@ -1,12 +1,12 @@
 ![Header](./header.png)
 
-- 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
-- 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
-- 💡 Developer of tools like QueueDB, ViualBase  
-- 👨‍💻 Building FlickStudio, Neuronix and NGNT  
-- 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
-- 📬 Open to collaborations, investments, and visionary opportunities.  
-- ✝️ JESUS | Believer
+🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
+🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
+💡 Developer of tools like QueueDB, ViualBase  
+👨‍💻 Building FlickStudio, Neuronix and NGNT  
+🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
+📬 Open to collaborations, investments, and visionary opportunities.  
+✝️ JESUS | Believer
 
 
 **🧰 My Tech Stacks**
@@ -160,10 +160,12 @@
 
 ## 🔭 Current Focus
 
-- Learning Machine Learning 🤖  
-- Building smarter, faster conversational AIs (hello AmiraPro 👋)  
-- Exploring decentralized systems and quantum curiosity 👽  
-- Optimizing dev workflows like it’s a sport 🏃‍♂️💨  
+🤖 Learning Machine Learning  
+🎬 Building AI movie studio - Flickstudio
+🪙 Building Nodie trading bot with the Look Ahead AI Algorithm
+👋 Building smarter, faster Intelligent Assistants (hello AmiraPro )  
+👽 Exploring decentralized systems and quantum curiosity    
+🏃‍♂️💨 Optimizing dev workflows like it’s a sport  
 
 ## 📬 Let’s Connect
 
