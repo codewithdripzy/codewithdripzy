@@ -9,16 +9,6 @@
 
 ---
 
-## 🤖 Interests
-
-👋 Hi, I'm Bankole Emmanuel Oluwafikayomi — developer, founder, and tech visionary.  
-🚀 Fixing the world one bug at a time... then we go to Mars.  
-🌱 Passionate about sustainability, Web3, and robotics — because why fix only the web when you can fix the world?  
-💡 Building the future — one line of code at a time, two coffees at a time, and three debugging sessions later.  
-😄 I like my functions pure, my tokens non-fungible, and my servers serverless.  
-
----
-
 **🧰 Tech Stacks**
 <p>
   <!-- Core Web & Frameworks -->
@@ -132,6 +122,15 @@
 
 ![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
+
+
+## 🤖 Interests
+
+👋 Hi, I'm Bankole Emmanuel Oluwafikayomi — developer, founder, and tech visionary.  
+🚀 Fixing the world one bug at a time... then we go to Mars.  
+🌱 Passionate about sustainability, Web3, and robotics — because why fix only the web when you can fix the world?  
+💡 Building the future — one line of code at a time, two coffees at a time, and three debugging sessions later.  
+😄 I like my functions pure, my tokens non-fungible, and my servers serverless.  
 
 ## 🧑‍💻 My Experiences 
 
