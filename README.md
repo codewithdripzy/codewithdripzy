@@ -137,13 +137,13 @@
 
 ## 🧑‍💻 My Experiences 
 
-📱 Fullstack, Mobile, and Desktop App Development
-🌍 Blockchain & Fintech Development
-🦾 Artificial Intelligence and Robotics
-🎮 Game Development & 3D Modelling  
-🎨 UI/UX Design
-🛜 Internet of Things (IoT)  
-🗃️ Open Source & Community Contribution  
+- 📱 Fullstack, Mobile, and Desktop App Development
+- 🌍 Blockchain & Fintech Development
+- 🦾 Artificial Intelligence and Robotics
+- 🎮 Game Development & 3D Modelling
+- 🎨 UI/UX Design
+- 🛜 Internet of Things (IoT)
+- 🗃️ Open Source & Community Contribution
 - [See More Projects](http://codewithdripzy.github.io/portfolio)
 
 
@@ -154,15 +154,13 @@
 - Exploring decentralized systems and quantum curiosity 👽  
 - Optimizing dev workflows like it’s a sport 🏃‍♂️💨  
 
-
-
 ## 📬 Let’s Connect
 
-- 📧 Email: codewithdripzy@gmail.com  
+- 📧 Email: bankolemmanuel.oluwafikayomi@gmail.com  
 - 📞 Phone: +2348132961144  
 - 🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-bankole-746258235/)  
-- 🧑‍💻 [GitHub](https://github.com/codewithdripzy)
+- X [X](https://x.com/thecodeguyy)
 
 <p>
   <a href="https://github.com/codewithdripzy">
