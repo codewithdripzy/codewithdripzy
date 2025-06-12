@@ -49,6 +49,7 @@
 
 </p>
 
+
 **🛠️ Version Control and Development tools used**
 
 <p>
@@ -58,6 +59,7 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
 </p>
+
 
 **🚀 DevOps and Deployment tools**
 
@@ -100,62 +102,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 </p>
 
-<!--<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="DotNet" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="30"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg" alt="DB Labs" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="MySQL" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="30"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg" alt="App Store" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="30"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg" alt="JSON" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg" alt="Unity" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="25"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg" alt="Arduino" width="35"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Figma" width="25"/>
-</div> -->
-
-<!-- <table>
-  <tr>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
-    <td><img width="27" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/></td>
-  </tr>
-  <tr>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/></td>
-    <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg"/></td>
-  </tr>
-  <tr>
-    <td><img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg"/></td>
-  </tr>
-  <tr>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/></td>
-    <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/></td>
-    <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
-    <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
-  </tr>
-</table> -->
-
-<div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
-  <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat" />
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat" />
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
-  <img alt="AWS IAM" src="https://img.shields.io/badge/AWS%20IAM-FF9900?logo=amazonaws&logoColor=white&style=flat" />
-  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/CloudFront-146EB4?logo=amazonaws&logoColor=white&style=flat" />
-  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" />
-  <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
-</div>
 
 <!-- ![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
 ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
