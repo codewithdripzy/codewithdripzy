@@ -173,10 +173,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy)](https://github.com/anuraghazra/github-readme-stats)
-![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)  
-![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy&layout=compact)
-
+![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
 ---
 
 🙏 Jesus Loves You.  
