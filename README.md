@@ -130,19 +130,23 @@
   <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
 </div>
 
-
 ---
 
 ## 🧑‍💻 I Do
 
-- Fullstack, Mobile, and Desktop App Development  
+- Fullstack, Mobile, and Desktop App Development
+- Blockchain & Fintech Development
+- Artificial Intelligence and Robotics
 - Game Development & 3D Modelling  
-- UI/UX Design  
+- UI/UX Design
 - Internet of Things (IoT)  
 - Open Source & Community Contribution  
 - [See More Projects](http://codewithdripzy.github.io/portfolio)
 
+![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
 ---
+
 
 ## 🔭 Current Focus
 
@@ -171,12 +175,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
----
-
 🙏 Jesus Loves You.  
 🎉 Wow! You read my README to the end. If you don’t believe it, fork me and find out 😉
 
