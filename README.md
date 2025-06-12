@@ -157,10 +157,10 @@
 ## 📬 Let’s Connect
 
 - 📧 Email: bankolemmanuel.oluwafikayomi@gmail.com  
-- 📞 Phone: +2348132961144  
-- 🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)  
+- 👨‍💻 [Follow me on X](https://x.com/thecodeguyy)
+- 📷 [Follow me on Instagram](https://instagram.com/thecodeguyy)
+- 🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-bankole-746258235/)  
-- X [X](https://x.com/thecodeguyy)
 
 <p>
   <a href="https://github.com/codewithdripzy">
