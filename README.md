@@ -130,10 +130,8 @@
   <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
 </div>
 
-
-![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
-
 
 ## 🧑‍💻 My Experiences 
 
