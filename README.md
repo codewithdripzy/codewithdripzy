@@ -119,7 +119,7 @@
   </tr>
 </table> -->
 
-<div align="center">
+<div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
   <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat" />
   <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat" />
