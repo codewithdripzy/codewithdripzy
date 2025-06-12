@@ -161,8 +161,8 @@
 ## 🔭 Current Focus
 
 🤖 Learning Machine Learning  
-🎬 Building AI movie studio - Flickstudio
-🪙 Building Nodie trading bot with the Look Ahead AI Algorithm
+🎬 Building AI movie studio - Flickstudio  
+🪙 Building Nodie trading bot with the Look Ahead AI Algorithm  
 👋 Building smarter, faster Intelligent Assistants (hello AmiraPro )  
 👽 Exploring decentralized systems and quantum curiosity    
 🏃‍♂️💨 Optimizing dev workflows like it’s a sport  
