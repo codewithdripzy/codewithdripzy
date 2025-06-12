@@ -63,7 +63,7 @@
 
 **🚀 DevOps and Deployment tools**
 
-<div align="left">
+<p>
   <!-- AWS Stack -->
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
   <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat" />
@@ -92,10 +92,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" />
-</div>
+</p>    
 
-
-**🖥️ Operating Systems familiar with:**
+**🖥️ Operating Systems familiar with**
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
