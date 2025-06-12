@@ -120,15 +120,16 @@
 </table> -->
 
 <div align="center">
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-amplify.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-s3.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-rds.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-iam.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-cloudfront.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-dynamodb.svg"/> 
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-ec2.svg"/> 
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
+  <img alt="AWS IAM" src="https://img.shields.io/badge/AWS%20IAM-FF9900?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/CloudFront-146EB4?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" />
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
 </div>
+
 
 ---
 
