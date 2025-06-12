@@ -6,6 +6,7 @@
 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
 📬 Open to collaborations, investments, and visionary opportunities.  
 ✝️ JESUS | Believer 
+
 ---
 
 ## 🤖 Interests
@@ -18,8 +19,7 @@
 
 ---
 
-## 🧰 Tech Stack
-**Have worked in:**
+**🧰 Tech Stacks**
 <p>
   <!-- Core Web & Frameworks -->
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
