@@ -8,7 +8,6 @@
 - 📬 Open to collaborations, investments, and visionary opportunities.  
 - ✝️ JESUS | Believer
 
----
 
 **🧰 My Tech Stacks**
 
@@ -129,8 +128,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="codewithdripzy's Stats"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true" alt="codewithdripzy's Streak"/>
     </td>
