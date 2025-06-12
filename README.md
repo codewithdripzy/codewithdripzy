@@ -1,12 +1,12 @@
 ![Header](./header.png)
 
-🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
-🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
-💡 Developer of tools like QueueDB, ViualBase  
-👨‍💻 Building FlickStudio, Neuronix and NGNT  
-🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
-📬 Open to collaborations, investments, and visionary opportunities.  
-✝️ JESUS | Believer
+- 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
+- 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
+- 💡 Developer of tools like QueueDB, ViualBase  
+- 👨‍💻 Building FlickStudio, Neuronix and NGNT  
+- 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
+- 📬 Open to collaborations, investments, and visionary opportunities.  
+- ✝️ JESUS | Believer
 
 ---
 
@@ -84,7 +84,6 @@
 </p>
 
 
-
 **🚀 My DevOps and Deployment tools**
 
 <p>
@@ -125,10 +124,21 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 </p>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="codewithdripzy's Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true" alt="codewithdripzy's Streak"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ![codewithdripzy's Stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
-![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
-
+<!-- ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true) -->
 
 ## 🤖 Interests
 
