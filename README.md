@@ -10,7 +10,7 @@
 
 ---
 
-**🧰 Tech Stacks**
+**🧰 My Tech Stacks**
 
 <p>
   <!-- Core Web & Frameworks -->
@@ -50,18 +50,42 @@
 </p>
 
 
-**🛠️ Version Control and Development tools used**
+**🛠️ My Version Control and Development tools**
 
 <p>
+  <!-- Version Control & IDEs -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat" />
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
+
+  <!-- Game Dev & Design -->
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat" />
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white&style=flat" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat" />
+
+  <!-- System & Package Tools -->
+  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=black&style=flat" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat" />
+  <img alt="Docker Desktop" src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img alt="Ngrok" src="https://img.shields.io/badge/Ngrok-1F1F1F?logo=ngrok&logoColor=white&style=flat" />
+
+  <!-- Database & Data Tools -->
+  <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=flat" />
+  <img alt="TablePlus" src="https://img.shields.io/badge/TablePlus-F9801F?logo=tableplus&logoColor=white&style=flat" />
+
+  <!-- Others -->
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white&style=flat" />
 </p>
 
 
-**🚀 DevOps and Deployment tools**
+
+**🚀 My DevOps and Deployment tools**
 
 <p>
   <!-- AWS Stack -->
