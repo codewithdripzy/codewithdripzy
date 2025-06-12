@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Bankole Emmanuel
 
+
 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
 💡 Inventor of tools like **RPEA**, `schoolar_auth`, and **VisualBase**  
 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
 📬 Open to collaborations, investments, and visionary opportunities.  
-✝️ JESUS | Believer 
+✝️ JESUS | Believer
 
 ---
 
@@ -57,7 +58,7 @@
 
 </p>
 
-**Version Control and Development tools used:**
+**🛠️ Version Control and Development tools used:**
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
@@ -66,7 +67,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
 </p>
 
-**Operating Systems familiar with:**
+**🖥️ Operating Systems familiar with:**
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
@@ -135,15 +136,15 @@
 ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
 
 
-## 🧑‍💻 My Experiences 
+##🧑‍💻 My Experiences 
 
-- Fullstack, Mobile, and Desktop App Development
-- Blockchain & Fintech Development
-- Artificial Intelligence and Robotics
-- Game Development & 3D Modelling  
-- UI/UX Design
-- Internet of Things (IoT)  
-- Open Source & Community Contribution  
+📱 Fullstack, Mobile, and Desktop App Development
+🌍 Blockchain & Fintech Development
+🦾 Artificial Intelligence and Robotics
+🎮 Game Development & 3D Modelling  
+🎨 UI/UX Design
+🛜 Internet of Things (IoT)  
+🗃️ Open Source & Community Contribution  
 - [See More Projects](http://codewithdripzy.github.io/portfolio)
 
 
