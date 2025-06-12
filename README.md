@@ -2,8 +2,8 @@
 
 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
-💡 Developer of tools like QueueDB, ViualBase
-👨‍💻 Building FlickStudio, Neuronix and NGNT
+💡 Developer of tools like QueueDB, ViualBase  
+👨‍💻 Building FlickStudio, Neuronix and NGNT  
 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
 📬 Open to collaborations, investments, and visionary opportunities.  
 ✝️ JESUS | Believer
@@ -135,14 +135,15 @@
 
 ## 🧑‍💻 My Experiences 
 
-- 📱 Fullstack, Mobile, and Desktop App Development
-- 🌍 Blockchain & Fintech Development
-- 🦾 Artificial Intelligence and Robotics
-- 🎮 Game Development & 3D Modelling
-- 🎨 UI/UX Design
-- 🛜 Internet of Things (IoT)
-- 🗃️ Open Source & Community Contribution
-- [See More Projects](http://codewithdripzy.github.io/portfolio)
+📱 Fullstack, Mobile, and Desktop App Development  
+🌍 Blockchain & Fintech Development  
+🦾 Artificial Intelligence and Robotic  
+🎮 Game Development & 3D Modelling  
+🎨 UI/UX Design  
+🛜 Internet of Things (IoT)  
+🗃️ Open Source & Community Contribution  
+
+[See More Projects](http://codewithdripzy.github.io/portfolio)
 
 
 ## 🔭 Current Focus
@@ -154,11 +155,11 @@
 
 ## 📬 Let’s Connect
 
-- 📧 Email: bankolemmanuel.oluwafikayomi@gmail.com  
-- 👨‍💻 [Follow me on X](https://x.com/thecodeguyy)
-- 📷 [Follow me on Instagram](https://instagram.com/thecodeguyy)
-- 🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-bankole-746258235/)  
+📧 Email: bankolemmanuel.oluwafikayomi@gmail.com  
+👨‍💻 [Follow me on X](https://x.com/thecodeguyy)  
+📷 [Follow me on Instagram](https://instagram.com/thecodeguyy)  
+🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)  
+💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-bankole-746258235/)  
 
 <p>
   <a href="https://github.com/codewithdripzy">
