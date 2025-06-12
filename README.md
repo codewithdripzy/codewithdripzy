@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Bankole Emmanuel
 
-
 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
 💡 Inventor of tools like **RPEA**, `schoolar_auth`, and **VisualBase**  
@@ -136,7 +135,7 @@
 ![codewithdripzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true)
 
 
-##🧑‍💻 My Experiences 
+## 🧑‍💻 My Experiences 
 
 📱 Fullstack, Mobile, and Desktop App Development
 🌍 Blockchain & Fintech Development
