@@ -2,7 +2,8 @@
 
 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
-💡 Inventor of tools like **RPEA**, `schoolar_auth`, and **VisualBase**  
+💡 Developer of tools like QueueDB, ViualBase
+👨‍💻 Building FlickStudio, Neuronix and NGNT
 🌍 Transforming Africa’s tech space with **AI**, **automation**, and **decentralized solutions**  
 📬 Open to collaborations, investments, and visionary opportunities.  
 ✝️ JESUS | Believer
