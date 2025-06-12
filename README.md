@@ -20,7 +20,26 @@
 
 ## 🧰 Tech Stack
 
-<table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="DotNet" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="30"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg" alt="DB Labs" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="MySQL" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="30"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-app-store.svg" alt="App Store" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="30"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/json.svg" alt="JSON" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg" alt="Unity" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="25"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg" alt="Arduino" width="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Figma" width="25"/>
+</div>
+
+<!-- <table>
   <tr>
     <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C#"/></td>
     <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dot Net"/></td>
@@ -45,7 +64,7 @@
     <td><img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/></td>
     <td><img width="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/></td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/> 
