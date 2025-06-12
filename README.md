@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bankole Emmanuel
+![Header](./header.png)
 
 🧠 Developer • 🏗️ Founder • 🛰️ Tech Visionary  
 🚀 CEO at **WeStack.io** | Lead Dev at **AmiraPro**  
