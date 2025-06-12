@@ -119,7 +119,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy)](https://github.com/anuraghazra/github-readme-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=codewithdripzy)  
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdripzy&layout=compact)
 
