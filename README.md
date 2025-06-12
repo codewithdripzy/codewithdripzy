@@ -169,7 +169,7 @@
 
 ## 📬 Let’s Connect
 
-📧 Email: bankolemmanuel.oluwafikayomi@gmail.com  
+📧 [Send me an email](mailto:bankolemmanuel.oluwafikayomi@gmail.com)  
 👨‍💻 [Follow me on X](https://x.com/thecodeguyy)  
 📷 [Follow me on Instagram](https://instagram.com/thecodeguyy)  
 🌐 [Portfolio](http://codewithdripzy.github.io/portfolio)  
