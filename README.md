@@ -11,6 +11,7 @@
 ---
 
 **🧰 Tech Stacks**
+
 <p>
   <!-- Core Web & Frameworks -->
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
@@ -48,7 +49,8 @@
 
 </p>
 
-**🛠️ Version Control and Development tools used:**
+**🛠️ Version Control and Development tools used**
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
@@ -56,6 +58,40 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
 </p>
+
+**🚀 DevOps and Deployment tools**
+
+<div align="left">
+  <!-- AWS Stack -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
+  <img alt="AWS IAM" src="https://img.shields.io/badge/AWS%20IAM-FF9900?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/CloudFront-146EB4?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" />
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
+
+  <!-- Cloud Hosting & Functions -->
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" />
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=flat" />
+
+  <!-- Frontend Deploy -->
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />
+
+  <!-- Containers & CI/CD -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" />
+</div>
+
 
 **🖥️ Operating Systems familiar with:**
 <p>
