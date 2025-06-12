@@ -184,7 +184,6 @@
   </a>
 </p>
 
----
 ✝️ Jesus Loves You.  
 🎉 _You made it to the end! Now let’s build something revolutionary._
 
