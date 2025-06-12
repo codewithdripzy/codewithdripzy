@@ -123,12 +123,12 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 </p>
 
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=codewithdripzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="codewithdripzy's Stats"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdripzy&theme=tokyonight&hide_border=true" alt="codewithdripzy's Streak"/>
     </td>
   </tr>
